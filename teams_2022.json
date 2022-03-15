@@ -1,206 +1,206 @@
 {
 	"Gonzaga": {
-		"seed": "1"
+		"seed": 1
 	},
 	"Arizona": {
-		"seed": "2"
+		"seed": 2
 	},
 	"Kansas": {
-		"seed": "3"
+		"seed": 3
 	},
 	"Baylor": {
-		"seed": "4"
+		"seed": 4
 	},
 	"Auburn": {
-		"seed": "5"
+		"seed": 5
 	},
 	"Kentucky": {
-		"seed": "6"
+		"seed": 6
 	},
 	"Villanova": {
-		"seed": "7"
+		"seed": 7
 	},
 	"Duke": {
-		"seed": "8"
+		"seed": 8
 	},
 	"Wisconsin": {
-		"seed": "9"
+		"seed": 9
 	},
 	"Tennessee": {
-		"seed": "10"
+		"seed": 10
 	},
 	"Purdue": {
-		"seed": "11"
+		"seed": 11
 	},
 	"Texas Tech": {
-		"seed": "12"
+		"seed": 12
 	},
 	"UCLA": {
-		"seed": "13"
+		"seed": 13
 	},
 	"Illinois": {
-		"seed": "14"
+		"seed": 14
 	},
 	"Providence": {
-		"seed": "15"
+		"seed": 15
 	},
 	"Arkansas": {
-		"seed": "16"
+		"seed": 16
 	},
 	"UConn": {
-		"seed": "17"
+		"seed": 17
 	},
 	"Houston": {
-		"seed": "18"
+		"seed": 18
 	},
 	"Saint Mary's": {
-		"seed": "19"
+		"seed": 19
 	},
 	"Iowa": {
-		"seed": "20"
+		"seed": 20
 	},
 	"Alabama": {
-		"seed": "21"
+		"seed": 21
 	},
 	"LSU": {
-		"seed": "22"
+		"seed": 22
 	},
 	"Texas": {
-		"seed": "23"
+		"seed": 23
 	},
 	"Colorado State": {
-		"seed": "24"
+		"seed": 24
 	},
 	"USC": {
-		"seed": "25"
+		"seed": 25
 	},
 	"Murray State": {
-		"seed": "26"
+		"seed": 26
 	},
 	"Michigan State": {
-		"seed": "27"
+		"seed": 27
 	},
 	"Ohio State": {
-		"seed": "28"
+		"seed": 28
 	},
 	"Boise State": {
-		"seed": "29"
+		"seed": 29
 	},
 	"North Carolina": {
-		"seed": "30"
+		"seed": 30
 	},
 	"San Diego State": {
-		"seed": "31"
+		"seed": 31
 	},
 	"Seton Hall": {
-		"seed": "32"
+		"seed": 32
 	},
 	"Creighton": {
-		"seed": "33"
+		"seed": 33
 	},
 	"TCU": {
-		"seed": "34"
+		"seed": 34
 	},
 	"Marquette": {
-		"seed": "35"
+		"seed": 35
 	},
 	"Memphis": {
-		"seed": "36"
+		"seed": 36
 	},
 	"San Francisco": {
-		"seed": "37"
+		"seed": 37
 	},
 	"Miami": {
-		"seed": "38"
+		"seed": 38
 	},
 	"Loyola Chicago": {
-		"seed": "39"
+		"seed": 39
 	},
 	"Davidson": {
-		"seed": "40"
+		"seed": 40
 	},
 	"Iowa State": {
-		"seed": "41"
+		"seed": 41
 	},
 	"Michigan": {
-		"seed": "42"
+		"seed": 42
 	},
 	"Wyoming": {
-		"seed": "43"
+		"seed": 43
 	},
 	"Rutgers": {
-		"seed": "44"
+		"seed": 44
 	},
 	"Indiana": {
-		"seed": "45"
+		"seed": 45
 	},
 	"Virginia Tech": {
-		"seed": "46"
+		"seed": 46
 	},
 	"Notre Dame": {
-		"seed": "47"
+		"seed": 47
 	},
 	"UAB": {
-		"seed": "48"
+		"seed": 48
 	},
 	"Richmond": {
-		"seed": "49"
+		"seed": 49
 	},
 	"New Mexico State": {
-		"seed": "50"
+		"seed": 50
 	},
 	"Chattanooga": {
-		"seed": "51"
+		"seed": 51
 	},
 	"South Dakota State": {
-		"seed": "52"
+		"seed": 52
 	},
 	"Vermont": {
-		"seed": "53"
+		"seed": 53
 	},
 	"Akron": {
-		"seed": "54"
+		"seed": 54
 	},
 	"Longwood": {
-		"seed": "55"
+		"seed": 55
 	},
 	"Yale": {
-		"seed": "56"
+		"seed": 56
 	},
 	"Colgate": {
-		"seed": "57"
+		"seed": 57
 	},
 	"Montana State": {
-		"seed": "58"
+		"seed": 58
 	},
 	"Delaware": {
-		"seed": "59"
+		"seed": 59
 	},
 	"Saint Peter's": {
-		"seed": "60"
+		"seed": 60
 	},
 	"Jacksonville State": {
-		"seed": "61"
+		"seed": 61
 	},
 	"Cal State Fullerton": {
-		"seed": "62"
+		"seed": 62
 	},
 	"Georgia State": {
-		"seed": "63"
+		"seed": 63
 	},
 	"Norfolk State": {
-		"seed": "64"
+		"seed": 64
 	},
 	"Wright State": {
-		"seed": "65"
+		"seed": 65
 	},
 	"Bryant": {
-		"seed": "66"
+		"seed": 66
 	},
 	"Texas Southern": {
-		"seed": "67"
+		"seed": 67
 	},
 	"Texas A&M-Corpus Christi": {
-		"seed": "68"
+		"seed": 68
 	}
 }

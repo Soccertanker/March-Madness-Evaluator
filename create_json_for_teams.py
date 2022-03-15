@@ -10,8 +10,8 @@ def get_team_data(line):
     line_words = line.split(' ')
     seed = line_words[0].split('.')[0]
     team_name = ' '.join(line_words[1:-1])
-    print(f'Read {team_name}.\n')
-    return team_name, seed
+    #print(f'Read {team_name}.\n')
+    return team_name, int(seed)
 
 
 def make_team_data_dict(team_lines):
